@@ -143,4 +143,4 @@ class SearchResultsModal:
         # self.main_app.add_to_table(anime_selecionado)
         print(f"Selecionado: {anime_selecionado['node']['title']}")
         
-        self.modal.destroy()
+        self.modal.destroy()# alteracao arquivo
