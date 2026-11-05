@@ -1,3 +1,11 @@
+Linux com g++
+
+g++ -o derzu main.cpp GerenciadorAnimes.cpp
+
+./derzu
+
+se Windows sem g++
+
 Passo 1: Entrar na pasta do projeto
 No terminal do PowerShell, navegue até a pasta correta:
 
